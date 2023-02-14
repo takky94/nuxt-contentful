@@ -1,7 +1,7 @@
 <template>
-  <Fragment>
+  <div>
     <AppHeader />
     <slot />
     <AppFooter />
-  </Fragment>
+  </div>
 </template>

@@ -1,7 +1,7 @@
 <template>
-  <header>logo</header>
-  <main>
-    <h1>Hello Nuxt</h1>
-  </main>
-  <footer>logo</footer>
+  <NuxtLayout>
+    <main>
+      <h1>Hello Nuxt</h1>
+    </main>
+  </NuxtLayout>
 </template>

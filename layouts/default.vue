@@ -1,5 +1,7 @@
 <template>
-  <Header />
-  <slot />
-  <Footer />
+  <Fragment>
+    <AppHeader />
+    <slot />
+    <AppFooter />
+  </Fragment>
 </template>
